@@ -1,0 +1,25 @@
+{
+  "name": "100-js-examples",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node 12.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakinabanu/100-JS-Examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakinabanu/100-JS-Examples/issues"
+  },
+  "homepage": "https://github.com/sakinabanu/100-JS-Examples#readme",
+  "keywords": [],
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "readline-sync": "^1.4.10"
+  }
+}
